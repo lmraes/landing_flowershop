@@ -1,1 +1,1 @@
-Landing page de uma floricultura usando html e css
+Desenvolvimento de uma Landing Page durante as aulas do One Bit Code utilizando exclusivamente HTML e CSS. O foco deste projeto FOI a criação de uma experiência de página web para uma floricultura simulada, adotando uma abordagem de design responsivo com prioridade para dispositivos móveis (mobile-first).
